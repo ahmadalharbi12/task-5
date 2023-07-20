@@ -1,4 +1,5 @@
 # task-5
+الخطوات1-تنزيل فيرتشول بوكس 2-تنزيل اوبنتو 3-اضافة الاوامر لتشغيل نظام روز
 
 
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
